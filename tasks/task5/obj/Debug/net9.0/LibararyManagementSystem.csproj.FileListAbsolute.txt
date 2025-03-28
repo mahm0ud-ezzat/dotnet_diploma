@@ -1,0 +1,14 @@
+D:\dotnet_eraasoft\task5\task5\obj\Debug\net9.0\LibararyManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet_eraasoft\task5\task5\obj\Debug\net9.0\LibararyManagementSystem.AssemblyInfoInputs.cache
+D:\dotnet_eraasoft\task5\task5\obj\Debug\net9.0\LibararyManagementSystem.AssemblyInfo.cs
+D:\dotnet_eraasoft\task5\task5\obj\Debug\net9.0\LibararyManagementSystem.csproj.CoreCompileInputs.cache
+D:\dotnet_eraasoft\task5\task5\bin\Debug\net9.0\LibararyManagementSystem.exe
+D:\dotnet_eraasoft\task5\task5\bin\Debug\net9.0\LibararyManagementSystem.deps.json
+D:\dotnet_eraasoft\task5\task5\bin\Debug\net9.0\LibararyManagementSystem.runtimeconfig.json
+D:\dotnet_eraasoft\task5\task5\bin\Debug\net9.0\LibararyManagementSystem.dll
+D:\dotnet_eraasoft\task5\task5\bin\Debug\net9.0\LibararyManagementSystem.pdb
+D:\dotnet_eraasoft\task5\task5\obj\Debug\net9.0\LibararyManagementSystem.dll
+D:\dotnet_eraasoft\task5\task5\obj\Debug\net9.0\refint\LibararyManagementSystem.dll
+D:\dotnet_eraasoft\task5\task5\obj\Debug\net9.0\LibararyManagementSystem.pdb
+D:\dotnet_eraasoft\task5\task5\obj\Debug\net9.0\LibararyManagementSystem.genruntimeconfig.cache
+D:\dotnet_eraasoft\task5\task5\obj\Debug\net9.0\ref\LibararyManagementSystem.dll

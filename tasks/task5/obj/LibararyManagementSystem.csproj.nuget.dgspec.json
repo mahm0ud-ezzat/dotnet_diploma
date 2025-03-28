@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet_eraasoft\\task5\\task5\\task5.csproj": {}
+    "D:\\dotnet_eraasoft\\task5\\task5\\LibararyManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\dotnet_eraasoft\\task5\\task5\\task5.csproj": {
+    "D:\\dotnet_eraasoft\\task5\\task5\\LibararyManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet_eraasoft\\task5\\task5\\task5.csproj",
-        "projectName": "task5",
-        "projectPath": "D:\\dotnet_eraasoft\\task5\\task5\\task5.csproj",
+        "projectUniqueName": "D:\\dotnet_eraasoft\\task5\\task5\\LibararyManagementSystem.csproj",
+        "projectName": "LibararyManagementSystem",
+        "projectPath": "D:\\dotnet_eraasoft\\task5\\task5\\LibararyManagementSystem.csproj",
         "packagesPath": "C:\\Users\\original\\.nuget\\packages\\",
         "outputPath": "D:\\dotnet_eraasoft\\task5\\task5\\obj\\",
         "projectStyle": "PackageReference",

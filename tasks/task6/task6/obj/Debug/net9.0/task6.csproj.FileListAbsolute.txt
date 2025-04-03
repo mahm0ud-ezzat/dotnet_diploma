@@ -1,0 +1,14 @@
+D:\dotnet_eraasoft\task6\task6\obj\Debug\net9.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet_eraasoft\task6\task6\obj\Debug\net9.0\task6.AssemblyInfoInputs.cache
+D:\dotnet_eraasoft\task6\task6\obj\Debug\net9.0\task6.AssemblyInfo.cs
+D:\dotnet_eraasoft\task6\task6\obj\Debug\net9.0\task6.csproj.CoreCompileInputs.cache
+D:\dotnet_eraasoft\task6\task6\bin\Debug\net9.0\task6.exe
+D:\dotnet_eraasoft\task6\task6\bin\Debug\net9.0\task6.deps.json
+D:\dotnet_eraasoft\task6\task6\bin\Debug\net9.0\task6.runtimeconfig.json
+D:\dotnet_eraasoft\task6\task6\bin\Debug\net9.0\task6.dll
+D:\dotnet_eraasoft\task6\task6\bin\Debug\net9.0\task6.pdb
+D:\dotnet_eraasoft\task6\task6\obj\Debug\net9.0\task6.dll
+D:\dotnet_eraasoft\task6\task6\obj\Debug\net9.0\refint\task6.dll
+D:\dotnet_eraasoft\task6\task6\obj\Debug\net9.0\task6.pdb
+D:\dotnet_eraasoft\task6\task6\obj\Debug\net9.0\task6.genruntimeconfig.cache
+D:\dotnet_eraasoft\task6\task6\obj\Debug\net9.0\ref\task6.dll

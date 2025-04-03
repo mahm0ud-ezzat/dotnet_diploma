@@ -1,0 +1,14 @@
+D:\dotnet_eraasoft\task6\ExceptionHandaling\bin\Debug\net9.0\ExceptionHandaling.exe
+D:\dotnet_eraasoft\task6\ExceptionHandaling\bin\Debug\net9.0\ExceptionHandaling.deps.json
+D:\dotnet_eraasoft\task6\ExceptionHandaling\bin\Debug\net9.0\ExceptionHandaling.runtimeconfig.json
+D:\dotnet_eraasoft\task6\ExceptionHandaling\bin\Debug\net9.0\ExceptionHandaling.dll
+D:\dotnet_eraasoft\task6\ExceptionHandaling\bin\Debug\net9.0\ExceptionHandaling.pdb
+D:\dotnet_eraasoft\task6\ExceptionHandaling\obj\Debug\net9.0\ExceptionHandaling.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet_eraasoft\task6\ExceptionHandaling\obj\Debug\net9.0\ExceptionHandaling.AssemblyInfoInputs.cache
+D:\dotnet_eraasoft\task6\ExceptionHandaling\obj\Debug\net9.0\ExceptionHandaling.AssemblyInfo.cs
+D:\dotnet_eraasoft\task6\ExceptionHandaling\obj\Debug\net9.0\ExceptionHandaling.csproj.CoreCompileInputs.cache
+D:\dotnet_eraasoft\task6\ExceptionHandaling\obj\Debug\net9.0\ExceptionHandaling.dll
+D:\dotnet_eraasoft\task6\ExceptionHandaling\obj\Debug\net9.0\refint\ExceptionHandaling.dll
+D:\dotnet_eraasoft\task6\ExceptionHandaling\obj\Debug\net9.0\ExceptionHandaling.pdb
+D:\dotnet_eraasoft\task6\ExceptionHandaling\obj\Debug\net9.0\ExceptionHandaling.genruntimeconfig.cache
+D:\dotnet_eraasoft\task6\ExceptionHandaling\obj\Debug\net9.0\ref\ExceptionHandaling.dll
